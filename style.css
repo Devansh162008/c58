@@ -1,0 +1,31 @@
+body {
+    color: black;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: red;
+    background-image: linear-gradient(red, yellow);
+}
+
+img {
+    width: 500px;
+    margin: 25px;
+    height: 500px;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+}
+.link {
+    float: left;
+    color: rebeccapurple;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: 'cinzeldecorative', cursive;
+    font-size: 20px;}
